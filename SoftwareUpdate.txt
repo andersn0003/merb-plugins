@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Update Twitter icon in Docs (#7711)
