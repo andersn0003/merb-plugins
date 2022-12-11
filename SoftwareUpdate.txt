@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Fix TypeError in check_cfg() (#9245)
