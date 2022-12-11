@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
