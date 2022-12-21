@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Move Explorer tests to scheduled CI (#8305)
