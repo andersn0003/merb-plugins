@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+YOLOv8 INT8 TFLite Inference Example (#7317)
