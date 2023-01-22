@@ -1,1 +1,1 @@
-Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
