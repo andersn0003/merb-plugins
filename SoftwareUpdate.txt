@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
