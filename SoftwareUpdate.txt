@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+fix resume training
