@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Python refactorings and simplifications (#7549)
