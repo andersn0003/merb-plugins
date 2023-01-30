@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Improve Docs arguments tables (#8415)
