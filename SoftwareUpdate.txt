@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
