@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
