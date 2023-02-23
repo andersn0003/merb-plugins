@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
