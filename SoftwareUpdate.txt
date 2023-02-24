@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Add missing Explorer docs reference pages (#7455)
