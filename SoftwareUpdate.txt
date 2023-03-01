@@ -1,1 +1,1 @@
-ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
