@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
