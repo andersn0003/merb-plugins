@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
