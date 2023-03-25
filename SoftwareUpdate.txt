@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Add docs links to all dataset YAMLs (#7360)
