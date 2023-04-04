@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Expand Model method type hinting (#8279)
