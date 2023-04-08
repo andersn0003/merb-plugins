@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Retry once for Docker CI failures (#8164)
