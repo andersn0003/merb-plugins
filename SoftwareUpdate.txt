@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
