@@ -1,1 +1,1 @@
-ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
