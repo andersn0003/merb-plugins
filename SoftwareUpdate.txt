@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Tracker: clean up GMC (#8003)
