@@ -1,1 +1,1 @@
-Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
