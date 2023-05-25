@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Rename model_id to model.id (#8447)
