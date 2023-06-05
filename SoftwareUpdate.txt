@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Add new YOLOv8 OBB model metrics (#7379)
