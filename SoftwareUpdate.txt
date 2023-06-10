@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
