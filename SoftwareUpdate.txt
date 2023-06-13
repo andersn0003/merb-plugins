@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Fix docker.yaml double-quote version bug (#7452)
