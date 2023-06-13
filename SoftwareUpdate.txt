@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
