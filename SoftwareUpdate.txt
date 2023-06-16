@@ -1,1 +1,1 @@
-fix val each epoch
+Batch inference fixes (#8854)
