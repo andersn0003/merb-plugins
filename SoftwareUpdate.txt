@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Fix Yolo 8.0.206 scale bug (#7821)
