@@ -1,1 +1,1 @@
-fix print val map
+fix resume training
