@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add simple-utilities.md Docs page (#8269)
