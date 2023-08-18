@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Add Neural Magic Docs integrations page (#7234)
