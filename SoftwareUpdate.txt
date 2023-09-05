@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Add Neural Magic Docs integrations page (#7234)
