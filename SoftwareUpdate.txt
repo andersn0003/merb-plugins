@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Feature: Create HUB Models from CLI or Python Script (#7316)
