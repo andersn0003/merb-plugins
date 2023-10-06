@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+* fix for predicting with batch_size > 1
