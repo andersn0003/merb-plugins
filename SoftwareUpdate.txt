@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add PR Summary step to Ultralytics Actions (#7675)
