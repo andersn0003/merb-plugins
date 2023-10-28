@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
