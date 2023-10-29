@@ -1,1 +1,1 @@
-ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
