@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
