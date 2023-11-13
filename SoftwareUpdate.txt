@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+* fix for predicting with batch_size > 1
