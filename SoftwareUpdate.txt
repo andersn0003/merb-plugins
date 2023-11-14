@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Update Docs language dropdown height (#6927)
