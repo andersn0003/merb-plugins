@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
