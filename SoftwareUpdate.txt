@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
