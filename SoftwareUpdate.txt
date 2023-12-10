@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
