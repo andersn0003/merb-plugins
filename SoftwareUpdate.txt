@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
