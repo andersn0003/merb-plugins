@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Fix undefined ‘im_array’ bug in predict.md (#8565)
