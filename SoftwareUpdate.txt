@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
