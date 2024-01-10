@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Improve Docs Modes tables (#8266)
