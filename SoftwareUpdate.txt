@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Add C++ Classify inference example (#6868)
