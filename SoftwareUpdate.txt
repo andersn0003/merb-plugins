@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Expand Model method type hinting (#8279)
