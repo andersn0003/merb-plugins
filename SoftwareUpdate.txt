@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Update TFLite Docs images (#8605)
