@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Add bgr hyperparameter (#9139)
