@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Update the heatmap module code + docs (#7045)
