@@ -1,1 +1,1 @@
-Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
