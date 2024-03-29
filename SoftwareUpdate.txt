@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
