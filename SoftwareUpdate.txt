@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
