@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Fix device counting method to account for double-digit device IDs (#8502)
