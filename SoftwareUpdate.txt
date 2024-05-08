@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
