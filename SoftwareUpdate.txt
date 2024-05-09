@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
