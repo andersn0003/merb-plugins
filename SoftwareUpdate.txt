@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Add PR Summary step to Ultralytics Actions (#7675)
