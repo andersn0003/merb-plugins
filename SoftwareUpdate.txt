@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Compress docs images (#8124)
