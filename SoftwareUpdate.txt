@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
