@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+ultralytics 8.1.31 NCNN and CLIP updates (#9235)
