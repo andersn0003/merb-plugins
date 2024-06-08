@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Fix OpenVINO links (#7930)
